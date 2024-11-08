@@ -1,4 +1,4 @@
-module grpc-service-ref
+module github.com/mr_efremov_26/grpc-service-ref
 
 go 1.22.7
 
