@@ -1,4 +1,4 @@
-module github.com/mr_efremov_26/grpc-service-ref
+module github.com/mrefremov26/go-train_sso-grpc
 
 go 1.22.7
 
